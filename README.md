@@ -15,3 +15,4 @@ There are two options for workouts:
 After clicking on a map, a popup form appears for you to log the data. Each of the fields is checked on input validity. On pressing "ENTER", the data is written in local storage (so you can access it even after reloading the page), and a pin with brief info popup is fixed in the desired position. If you have activities all over the place, there is no need to manually find a certain workout - you can simply click on its description on the side bar and it will automatically move the map.
 
 ---
+You can test the app via [github-pages](https://github.com/mmarty12/mapty/deployments/github-pages). Click on the latest deployment to check the site :)
